@@ -1,0 +1,21 @@
+{
+    "app_name": "Odoo Apexive",
+    "odoo": "Odoo",
+    "splashDescription": "Time management without obstacles",
+    "homeEmptyTitle": "You don’t have any local timesheets",
+    "homeEmptyDescription": "Create a timer to to begin tracking time",
+    "getStarted": "Get Started",
+    "timesheets": "Timesheets",
+    "createTimer": "Create Timer",
+    "pleaseSelectAnItem": "Please select an item",
+    "project": "Project",
+    "tasks": "Tasks",
+    "description": "Description",
+    "emptyDescription": "Description cannot be empty",
+    "makeFavorite": "Make Favorite",
+    "youHavexTimers": "You have {number} {number, plural, =0 {timer} =1 {timer} other {timers}}",
+    "details": "Details",
+    "completedRecords": "Completed Records",
+    "deadline": "Deadline",
+    "assignedTo": "Assigned To"
+}
