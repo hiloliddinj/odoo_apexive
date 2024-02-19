@@ -1,16 +1,6 @@
 # odoo_apexive
 
-A new Flutter project.
+Timer Sample Test Project
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Here is app overview:
+![Simulator Screen Recording - iPhone 15 Pro - 2024-02-19 at 19 38 58](https://github.com/hiloliddinj/odoo_apexive/assets/38894285/86357672-19fd-4c81-8e0a-429704be52f0)
